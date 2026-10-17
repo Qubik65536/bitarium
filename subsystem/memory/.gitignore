@@ -1,0 +1,8 @@
+# gitignore for Zig projects
+# source: https://github.com/github/gitignore/blob/main/Zig.gitignore
+
+# Build Artifacts
+.zig-cache/
+zig-out/
+zig-pkg/
+*.o
